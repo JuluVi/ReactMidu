@@ -14,5 +14,8 @@
   },
   "esLintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "yarn": "^1.22.22"
   }
 }
